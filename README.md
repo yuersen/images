@@ -1,0 +1,2 @@
+# images
+Store picture resources
